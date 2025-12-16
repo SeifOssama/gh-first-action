@@ -7,4 +7,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Push detected successfully"
+      - run: echo "Push detected successfully!"
